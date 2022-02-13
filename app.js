@@ -20,7 +20,7 @@ const fromEuroToDollar = function(valueInEuro){
 
 
 
-// we declare the function with the exact name "fromDollaToYen"
+// we declare the function with the exact name "fromDollarToYen"
 const fromDollarToYen = function(valueInDollar){
     // convert the given valueInDollar to Yen
     let valueInYen = valueInDollar * 115.31;
@@ -29,7 +29,7 @@ const fromDollarToYen = function(valueInDollar){
 };
 
 
-// we declare the function with the exact name "fromyenToPound"
+// we declare the function with the exact name "fromYenToPound"
 const fromYenToPound = function(valueInYen){
 
     let valueInPound = valueInYen * 0.0064;
